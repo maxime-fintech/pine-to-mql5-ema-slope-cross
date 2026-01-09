@@ -302,3 +302,8 @@ This repository demonstrates the exact engineering workflow and quality I delive
 Feel free to contact me for custom development.
 
 ---
+Author
+Maxime  
+MQL5 Developer  
+MQL5 Freelance: https://www.mql5.com/en/users/maxime.fintech
+LinkedIn: https://www.linkedin.com/in/maxime-nikolaev-01026827a
